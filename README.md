@@ -23,3 +23,5 @@ Allow tiered access to premium recipes upon proof verification.
 5. Contract Address
 SP000000000000000000002Q6VF78.recipe-proof
 (Replace with actual address after deployment on Stacks testnet or mainnet)
+
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/0d863695-7a5d-41f0-81d1-7fe39e8dec22" />
